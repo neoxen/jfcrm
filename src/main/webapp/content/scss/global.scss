@@ -68,6 +68,11 @@ Generic styles
 
 .footer {
     border-top: 1px solid rgba(0,0,0,.125);
+    text-align: right;
+}
+
+.footer span {
+    float: right;
 }
 
 /* ==========================================================================
